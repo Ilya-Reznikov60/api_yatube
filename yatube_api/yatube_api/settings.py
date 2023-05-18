@@ -121,3 +121,5 @@ REST_FRAMEWORK = {
         'rest_framework.authentication.TokenAuthentication',
     ]
 }
+
+POST_IMAGE_PATH = 'posts/'
