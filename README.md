@@ -7,7 +7,7 @@
 - библиотека Simple JWT - работа с JWT-токеном
 
 ## API социальной сети блогеров **Yatube**
-REST API для проекта [YaTube](https://github.com/Ilya-Reznikov/hw05_final)
+REST API для проекта [YaTube](https://github.com/Ilya-Reznikov60/hw05_final)
 
 У неаутентифицированных пользователей есть возможность получить посты пользователей соцсети, комментарии к постам, а также информацию о группах.
 
